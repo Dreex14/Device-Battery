@@ -1,0 +1,6 @@
+build/
+wireless-battery
+*.exe
+*.o
+dist/
+third_party/
